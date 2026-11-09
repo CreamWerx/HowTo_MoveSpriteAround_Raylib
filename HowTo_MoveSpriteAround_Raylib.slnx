@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HowTo_MoveSpriteAround_Raylib/HowTo_MoveSpriteAround_Raylib.vcxproj" Id="924c1dfb-3255-4888-8e2d-6b9adeef8b71" />
+</Solution>
